@@ -31,5 +31,6 @@ public class Main {
         Main data = new Main();
         data.masukkanNamaDepan();
         data.tampilEjaanNama();
+        System.out.println("Developed by : Ivan Faathirza");
     }
 }
